@@ -7,7 +7,7 @@
 const querystring = require("querystring");
 const $ = new Env();
 // =======================================微信server酱通知设置区域===========================================
-//此处填你申请的SCKEY.
+//SCT238531TS6Onr0dgd6bRS9a5vO6qTH5h
 //(环境变量名 PUSH_KEY)
 let SCKEY = '';
 
